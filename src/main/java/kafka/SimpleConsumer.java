@@ -1,4 +1,5 @@
 package kafka;
 
-public class SimpleConsumer {
+public class SimpleConsumer implements Consumer {
+
 }
